@@ -19,6 +19,7 @@ public class ContactsPage extends TestBase {
 	@FindBy(id="surname")
 	WebElement lastName;
 	
+	
 	@FindBy(name="client_lookup")
 	WebElement company;
 	
